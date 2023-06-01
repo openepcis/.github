@@ -1,6 +1,6 @@
 ## GS1 EPCIS 2.0 Repository Open Source Framework
 
-OpenEPCIS is an open-source reference implementation based on the EPCIS standard that also offers a number of open-source projects, tools, and artifacts that you may use and integrate right away within your system.
+OpenEPCIS is a open-sourced fully compliant implementation of the GS1 EPCIS standard that also offers a number of open-source projects, tools, and artifacts that you may use and integrate right away within your system.
 
 To learn more about us, please visit [openepcis.io](https://openepcis.io)
 
